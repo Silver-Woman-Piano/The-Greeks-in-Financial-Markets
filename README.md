@@ -14,7 +14,7 @@ Visualize how these sensitivities change with the underlying asset price
 Objective
 To offer an educational and intuitive introduction to the Greeks, aimed at students and finance enthusiasts interested in quantitative finance and options risk management.
 
-📊 Output
+Output
 Line plot of the call option's value across a range of underlying prices
 
 Subplots showing how each Greek behaves with respect to the underlying asset
